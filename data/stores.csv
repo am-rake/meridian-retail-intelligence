@@ -1,0 +1,10 @@
+store_id,store_name,store_type,region,store_profile
+STR-001,Whiterun,Retail,Central,Flagship
+STR-002,Solitude,Retail,Northwest,Premium
+STR-003,Windhelm,Retail,Northeast,Established
+STR-004,Riften,Retail,Southeast,High Traffic
+STR-005,Markarth,Retail,West,High Revenue
+STR-006,Falkreath,Retail,South,Small Market
+STR-007,Dawnstar,Retail,North,Seasonal
+STR-008,Morthal,Retail,Northwest,Developing
+WEB-001,Tamriel Online,E-commerce,Online,Digital
