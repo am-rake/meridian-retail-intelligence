@@ -1,0 +1,251 @@
+product_id,product_name,brand,category,retail_price_usd,wholesale_cost_usd,gross_profit_usd,gross_margin_pct
+PRD-001,Pip-Boy 3000 - Value Pack - Series 001,RobCo Industries,Electronics,725.49,356.84,368.65,50.81
+PRD-002,Pip-Boy 3000 - Online Exclusive - Series 002,RobCo Industries,Electronics,1141.51,523.88,617.63,54.11
+PRD-003,BlamCo Mac & Cheese - Retail Exclusive - Series 003,BlamCo,Groceries,10.02,6.2,3.82,38.12
+PRD-004,Vault 111 Jumpsuit - Anniversary Edition - Series 004,Vault-Tec,Apparel,128.11,88.76,39.35,30.72
+PRD-005,Nuka-Cola Quantum - Classic - Series 005,Nuka-Cola,Beverages,6.39,3.17,3.22,50.39
+PRD-006,Abraxo Cleaner - Deluxe - Series 006,Abraxo,Household,14.49,8.08,6.41,44.24
+PRD-007,Abraxo Industrial Cleaner - Standard - Series 007,Abraxo,Household,23.23,14.19,9.04,38.92
+PRD-008,Vault 111 Jumpsuit - Retail Exclusive - Series 008,Vault-Tec,Apparel,76.3,48.72,27.58,36.15
+PRD-009,Abraxo Cleaner - Deluxe - Series 009,Abraxo,Household,6.14,3.18,2.96,48.21
+PRD-010,Sugar Bombs Cereal - Limited Edition - Series 010,Sugar Bombs,Groceries,10.92,6.16,4.76,43.59
+PRD-011,Silver Shroud Collectible - Premium - Series 011,Hubris Comics,Entertainment,21.38,11.9,9.48,44.34
+PRD-012,Sugar Bombs Cereal - Online Exclusive - Series 012,Sugar Bombs,Groceries,9.07,5.53,3.54,39.03
+PRD-013,BlamCo Mac & Cheese - Anniversary Edition - Series 013,BlamCo,Groceries,7.23,5.4,1.83,25.31
+PRD-014,BlamCo Family Pack - Standard - Series 014,BlamCo,Groceries,5.35,2.46,2.89,54.02
+PRD-015,Abraxo Industrial Cleaner - Value Pack - Series 015,Abraxo,Household,6.64,4.81,1.83,27.56
+PRD-016,Abraxo Cleaner - Anniversary Edition - Series 016,Abraxo,Household,14.88,10.78,4.1,27.55
+PRD-017,Grognak the Barbarian - Value Pack - Series 017,Hubris Comics,Entertainment,19.76,13.31,6.45,32.64
+PRD-018,Sugar Bombs Family Size - Online Exclusive - Series 018,Sugar Bombs,Groceries,7.19,3.71,3.48,48.4
+PRD-019,Household Automation Unit - Anniversary Edition - Series 019,General Atomics,Home Automation,818.17,379.74,438.43,53.59
+PRD-020,RobCo Terminal - Collector's Edition - Series 020,RobCo Industries,Electronics,2011.38,1159.86,851.52,42.34
+PRD-021,RobCo Sensor Module - Classic - Series 021,RobCo Industries,Electronics,1550.33,915.34,634.99,40.96
+PRD-022,Sugar Bombs Cereal - Deluxe - Series 022,Sugar Bombs,Groceries,9.44,5.77,3.67,38.88
+PRD-023,Sugar Bombs Family Size - Deluxe - Series 023,Sugar Bombs,Groceries,6.34,3.15,3.19,50.32
+PRD-024,Nuka-Cherry - Retail Exclusive - Series 024,Nuka-Cola,Beverages,10.61,6.39,4.22,39.77
+PRD-025,Protectron - Retail Exclusive - Series 025,RobCo Industries,Electronics,1581.07,783.98,797.09,50.41
+PRD-026,Household Automation Unit - Retail Exclusive - Series 026,General Atomics,Home Automation,3714.72,2339.1,1375.62,37.03
+PRD-027,Grognak the Barbarian - Deluxe - Series 027,Hubris Comics,Entertainment,75.03,53.54,21.49,28.64
+PRD-028,Sugar Bombs Cereal - Standard - Series 028,Sugar Bombs,Groceries,5.92,3.67,2.25,38.01
+PRD-029,Pip-Boy 3000 - Anniversary Edition - Series 029,RobCo Industries,Electronics,2067.64,1537.07,530.57,25.66
+PRD-030,Mister Handy - Anniversary Edition - Series 030,General Atomics,Home Automation,3813.96,1905.22,1908.74,50.05
+PRD-031,Vault 111 Jumpsuit - Retail Exclusive - Series 031,Vault-Tec,Apparel,157.16,103.25,53.91,34.3
+PRD-032,Sugar Bombs Family Size - Premium - Series 032,Sugar Bombs,Groceries,7.49,4.53,2.96,39.52
+PRD-033,RobCo Terminal - Limited Edition - Series 033,RobCo Industries,Electronics,300.45,137.1,163.35,54.37
+PRD-034,BlamCo Mac & Cheese - Standard - Series 034,BlamCo,Groceries,3.38,2.16,1.22,36.09
+PRD-035,BlamCo Mac & Cheese - Standard - Series 035,BlamCo,Groceries,13.24,6.24,7.0,52.87
+PRD-036,BlamCo Family Pack - Anniversary Edition - Series 036,BlamCo,Groceries,5.17,2.53,2.64,51.06
+PRD-037,Grognak the Barbarian - Anniversary Edition - Series 037,Hubris Comics,Entertainment,66.51,33.73,32.78,49.29
+PRD-038,RobCo Sensor Module - Premium - Series 038,RobCo Industries,Electronics,1145.4,675.91,469.49,40.99
+PRD-039,Nuka-Cola - Standard - Series 039,Nuka-Cola,Beverages,7.02,3.87,3.15,44.87
+PRD-040,RobCo Terminal - Limited Edition - Series 040,RobCo Industries,Electronics,596.98,348.98,248.0,41.54
+PRD-041,Vault 111 Jumpsuit - Value Pack - Series 041,Vault-Tec,Apparel,105.95,75.47,30.48,28.77
+PRD-042,RobCo Sensor Module - Retail Exclusive - Series 042,RobCo Industries,Electronics,380.08,245.4,134.68,35.43
+PRD-043,Nuka-Cola - Limited Edition - Series 043,Nuka-Cola,Beverages,4.65,2.77,1.88,40.43
+PRD-044,BlamCo Family Pack - Standard - Series 044,BlamCo,Groceries,4.55,2.05,2.5,54.95
+PRD-045,Vault-Tec Utility Backpack - Anniversary Edition - Series 045,Vault-Tec,Apparel,74.91,49.36,25.55,34.11
+PRD-046,Grognak the Barbarian - Limited Edition - Series 046,Hubris Comics,Entertainment,30.76,22.78,7.98,25.94
+PRD-047,Nuka-Cherry - Standard - Series 047,Nuka-Cola,Beverages,3.49,2.07,1.42,40.69
+PRD-048,Mister Handy - Retail Exclusive - Series 048,General Atomics,Home Automation,780.38,394.68,385.7,49.42
+PRD-049,RobCo Terminal - Classic - Series 049,RobCo Industries,Electronics,431.72,309.58,122.14,28.29
+PRD-050,BlamCo Mac & Cheese - Online Exclusive - Series 050,BlamCo,Groceries,3.51,2.27,1.24,35.33
+PRD-051,Abraxo Industrial Cleaner - Limited Edition - Series 051,Abraxo,Household,21.73,11.83,9.9,45.56
+PRD-052,Sugar Bombs Family Size - Collector's Edition - Series 052,Sugar Bombs,Groceries,9.36,5.05,4.31,46.05
+PRD-053,Abraxo Cleaner - Standard - Series 053,Abraxo,Household,16.45,12.33,4.12,25.05
+PRD-054,Pip-Boy 3000 - Retail Exclusive - Series 054,RobCo Industries,Electronics,650.9,344.69,306.21,47.04
+PRD-055,Abraxo Cleaner - Limited Edition - Series 055,Abraxo,Household,14.23,7.08,7.15,50.25
+PRD-056,Sugar Bombs Cereal - Retail Exclusive - Series 056,Sugar Bombs,Groceries,6.39,4.15,2.24,35.05
+PRD-057,Mister Gutsy - Deluxe - Series 057,General Atomics,Home Automation,3613.98,2431.21,1182.77,32.73
+PRD-058,Mister Gutsy - Value Pack - Series 058,General Atomics,Home Automation,2616.89,1740.97,875.92,33.47
+PRD-059,BlamCo Family Pack - Retail Exclusive - Series 059,BlamCo,Groceries,8.6,6.21,2.39,27.79
+PRD-060,Nuka-Cola - Classic - Series 060,Nuka-Cola,Beverages,11.28,5.23,6.05,53.63
+PRD-061,Abraxo Cleaner - Value Pack - Series 061,Abraxo,Household,9.03,5.26,3.77,41.75
+PRD-062,Vault-Tec Survival Kit - Standard - Series 062,Vault-Tec,Apparel,44.57,32.69,11.88,26.65
+PRD-063,Household Automation Unit - Standard - Series 063,General Atomics,Home Automation,3421.07,2137.32,1283.75,37.52
+PRD-064,Mister Gutsy - Collector's Edition - Series 064,General Atomics,Home Automation,646.39,361.59,284.8,44.06
+PRD-065,Nuka-Cherry - Limited Edition - Series 065,Nuka-Cola,Beverages,9.81,6.38,3.43,34.96
+PRD-066,Abraxo Industrial Cleaner - Online Exclusive - Series 066,Abraxo,Household,23.73,17.27,6.46,27.22
+PRD-067,BlamCo Mac & Cheese - Collector's Edition - Series 067,BlamCo,Groceries,13.51,6.18,7.33,54.26
+PRD-068,Abraxo Industrial Cleaner - Limited Edition - Series 068,Abraxo,Household,11.66,8.0,3.66,31.39
+PRD-069,RobCo Sensor Module - Standard - Series 069,RobCo Industries,Electronics,2167.68,1120.11,1047.57,48.33
+PRD-070,Unstoppables Comic - Value Pack - Series 070,Hubris Comics,Entertainment,67.43,47.97,19.46,28.86
+PRD-071,BlamCo Mac & Cheese - Limited Edition - Series 071,BlamCo,Groceries,7.47,3.99,3.48,46.59
+PRD-072,Protectron - Premium - Series 072,RobCo Industries,Electronics,1657.47,944.6,712.87,43.01
+PRD-073,Abraxo Cleaner - Deluxe - Series 073,Abraxo,Household,26.92,14.22,12.7,47.18
+PRD-074,Sugar Bombs Cereal - Deluxe - Series 074,Sugar Bombs,Groceries,8.76,4.85,3.91,44.63
+PRD-075,Abraxo Industrial Cleaner - Online Exclusive - Series 075,Abraxo,Household,29.6,14.35,15.25,51.52
+PRD-076,BlamCo Family Pack - Standard - Series 076,BlamCo,Groceries,11.35,5.11,6.24,54.98
+PRD-077,BlamCo Family Pack - Classic - Series 077,BlamCo,Groceries,3.36,2.18,1.18,35.12
+PRD-078,Abraxo Industrial Cleaner - Deluxe - Series 078,Abraxo,Household,22.98,12.41,10.57,46.0
+PRD-079,Sugar Bombs Family Size - Premium - Series 079,Sugar Bombs,Groceries,7.21,3.88,3.33,46.19
+PRD-080,Mister Handy - Classic - Series 080,General Atomics,Home Automation,2827.24,1593.84,1233.4,43.63
+PRD-081,Household Automation Unit - Online Exclusive - Series 081,General Atomics,Home Automation,1553.31,954.32,598.99,38.56
+PRD-082,Nuka-Cherry - Value Pack - Series 082,Nuka-Cola,Beverages,5.09,3.49,1.6,31.43
+PRD-083,Abraxo Industrial Cleaner - Anniversary Edition - Series 083,Abraxo,Household,16.04,8.25,7.79,48.57
+PRD-084,Silver Shroud Collectible - Collector's Edition - Series 084,Hubris Comics,Entertainment,56.11,30.03,26.08,46.48
+PRD-085,Abraxo Cleaner - Limited Edition - Series 085,Abraxo,Household,21.81,11.28,10.53,48.28
+PRD-086,BlamCo Mac & Cheese - Standard - Series 086,BlamCo,Groceries,3.07,2.29,0.78,25.41
+PRD-087,RobCo Sensor Module - Classic - Series 087,RobCo Industries,Electronics,2232.41,1390.12,842.29,37.73
+PRD-088,Vault-Tec Utility Backpack - Classic - Series 088,Vault-Tec,Apparel,67.69,43.78,23.91,35.32
+PRD-089,Nuka-Cola - Classic - Series 089,Nuka-Cola,Beverages,5.18,3.58,1.6,30.89
+PRD-090,Grognak the Barbarian - Retail Exclusive - Series 090,Hubris Comics,Entertainment,27.43,19.32,8.11,29.57
+PRD-091,Grognak the Barbarian - Anniversary Edition - Series 091,Hubris Comics,Entertainment,56.72,42.33,14.39,25.37
+PRD-092,Abraxo Industrial Cleaner - Online Exclusive - Series 092,Abraxo,Household,25.37,18.21,7.16,28.22
+PRD-093,Vault-Tec Survival Kit - Anniversary Edition - Series 093,Vault-Tec,Apparel,182.0,122.5,59.5,32.69
+PRD-094,Unstoppables Comic - Value Pack - Series 094,Hubris Comics,Entertainment,62.61,43.95,18.66,29.8
+PRD-095,Sugar Bombs Family Size - Limited Edition - Series 095,Sugar Bombs,Groceries,6.19,2.93,3.26,52.67
+PRD-096,Sugar Bombs Cereal - Value Pack - Series 096,Sugar Bombs,Groceries,6.68,4.8,1.88,28.14
+PRD-097,RobCo Terminal - Collector's Edition - Series 097,RobCo Industries,Electronics,693.45,456.42,237.03,34.18
+PRD-098,BlamCo Mac & Cheese - Classic - Series 098,BlamCo,Groceries,7.58,4.64,2.94,38.79
+PRD-099,Vault 111 Jumpsuit - Limited Edition - Series 099,Vault-Tec,Apparel,170.75,96.79,73.96,43.31
+PRD-100,Nuka-Cola Grape - Classic - Series 100,Nuka-Cola,Beverages,7.76,5.69,2.07,26.68
+PRD-101,Sugar Bombs Family Size - Classic - Series 101,Sugar Bombs,Groceries,8.3,5.56,2.74,33.01
+PRD-102,BlamCo Family Pack - Limited Edition - Series 102,BlamCo,Groceries,5.9,3.51,2.39,40.51
+PRD-103,Vault-Tec Utility Backpack - Classic - Series 103,Vault-Tec,Apparel,151.72,106.53,45.19,29.79
+PRD-104,Household Automation Unit - Retail Exclusive - Series 104,General Atomics,Home Automation,594.37,337.72,256.65,43.18
+PRD-105,Nuka-Cola - Classic - Series 105,Nuka-Cola,Beverages,4.35,2.56,1.79,41.15
+PRD-106,Nuka-Cherry - Classic - Series 106,Nuka-Cola,Beverages,6.26,3.67,2.59,41.37
+PRD-107,Abraxo Industrial Cleaner - Value Pack - Series 107,Abraxo,Household,23.79,16.64,7.15,30.05
+PRD-108,Sugar Bombs Cereal - Anniversary Edition - Series 108,Sugar Bombs,Groceries,4.15,2.54,1.61,38.8
+PRD-109,Abraxo Cleaner - Deluxe - Series 109,Abraxo,Household,24.52,15.83,8.69,35.44
+PRD-110,Nuka-Cola Quantum - Limited Edition - Series 110,Nuka-Cola,Beverages,11.38,7.24,4.14,36.38
+PRD-111,BlamCo Mac & Cheese - Anniversary Edition - Series 111,BlamCo,Groceries,10.86,6.72,4.14,38.12
+PRD-112,BlamCo Family Pack - Value Pack - Series 112,BlamCo,Groceries,12.08,6.04,6.04,50.0
+PRD-113,RobCo Terminal - Value Pack - Series 113,RobCo Industries,Electronics,404.02,184.92,219.1,54.23
+PRD-114,Sugar Bombs Family Size - Classic - Series 114,Sugar Bombs,Groceries,11.52,5.87,5.65,49.05
+PRD-115,BlamCo Mac & Cheese - Value Pack - Series 115,BlamCo,Groceries,13.12,8.27,4.85,36.97
+PRD-116,Pip-Boy 3000 - Premium - Series 116,RobCo Industries,Electronics,1401.94,909.1,492.84,35.15
+PRD-117,Protectron - Standard - Series 117,RobCo Industries,Electronics,2146.49,1495.46,651.03,30.33
+PRD-118,RobCo Sensor Module - Premium - Series 118,RobCo Industries,Electronics,1643.61,1148.25,495.36,30.14
+PRD-119,Mister Gutsy - Collector's Edition - Series 119,General Atomics,Home Automation,3068.27,2269.42,798.85,26.04
+PRD-120,Sugar Bombs Family Size - Anniversary Edition - Series 120,Sugar Bombs,Groceries,7.47,5.0,2.47,33.07
+PRD-121,Sugar Bombs Family Size - Limited Edition - Series 121,Sugar Bombs,Groceries,10.64,5.06,5.58,52.44
+PRD-122,Grognak the Barbarian - Anniversary Edition - Series 122,Hubris Comics,Entertainment,49.88,32.44,17.44,34.96
+PRD-123,Abraxo Cleaner - Anniversary Edition - Series 123,Abraxo,Household,26.26,13.25,13.01,49.54
+PRD-124,BlamCo Family Pack - Value Pack - Series 124,BlamCo,Groceries,6.74,4.81,1.93,28.64
+PRD-125,Sugar Bombs Cereal - Retail Exclusive - Series 125,Sugar Bombs,Groceries,11.57,5.5,6.07,52.46
+PRD-126,Vault-Tec Utility Backpack - Retail Exclusive - Series 126,Vault-Tec,Apparel,157.67,103.62,54.05,34.28
+PRD-127,Unstoppables Comic - Standard - Series 127,Hubris Comics,Entertainment,16.5,8.52,7.98,48.36
+PRD-128,BlamCo Family Pack - Online Exclusive - Series 128,BlamCo,Groceries,7.1,4.37,2.73,38.45
+PRD-129,Abraxo Industrial Cleaner - Retail Exclusive - Series 129,Abraxo,Household,13.26,8.76,4.5,33.94
+PRD-130,Sugar Bombs Family Size - Value Pack - Series 130,Sugar Bombs,Groceries,5.83,3.89,1.94,33.28
+PRD-131,Abraxo Cleaner - Retail Exclusive - Series 131,Abraxo,Household,28.76,18.9,9.86,34.28
+PRD-132,BlamCo Mac & Cheese - Anniversary Edition - Series 132,BlamCo,Groceries,5.95,3.73,2.22,37.31
+PRD-133,Sugar Bombs Cereal - Limited Edition - Series 133,Sugar Bombs,Groceries,6.36,3.55,2.81,44.18
+PRD-134,Sugar Bombs Cereal - Retail Exclusive - Series 134,Sugar Bombs,Groceries,5.0,2.32,2.68,53.6
+PRD-135,Nuka-Cola Grape - Value Pack - Series 135,Nuka-Cola,Beverages,9.96,4.86,5.1,51.2
+PRD-136,Grognak the Barbarian - Standard - Series 136,Hubris Comics,Entertainment,50.17,29.64,20.53,40.92
+PRD-137,Unstoppables Comic - Collector's Edition - Series 137,Hubris Comics,Entertainment,77.57,40.78,36.79,47.43
+PRD-138,Grognak the Barbarian - Deluxe - Series 138,Hubris Comics,Entertainment,38.04,17.96,20.08,52.79
+PRD-139,Nuka-Cola Quantum - Collector's Edition - Series 139,Nuka-Cola,Beverages,11.1,8.16,2.94,26.49
+PRD-140,RobCo Terminal - Deluxe - Series 140,RobCo Industries,Electronics,1461.46,840.12,621.34,42.52
+PRD-141,BlamCo Family Pack - Anniversary Edition - Series 141,BlamCo,Groceries,13.85,7.47,6.38,46.06
+PRD-142,Vault-Tec Utility Backpack - Online Exclusive - Series 142,Vault-Tec,Apparel,133.67,84.6,49.07,36.71
+PRD-143,RobCo Terminal - Limited Edition - Series 143,RobCo Industries,Electronics,771.91,366.16,405.75,52.56
+PRD-144,BlamCo Mac & Cheese - Retail Exclusive - Series 144,BlamCo,Groceries,3.43,1.55,1.88,54.81
+PRD-145,Silver Shroud Collectible - Online Exclusive - Series 145,Hubris Comics,Entertainment,42.88,19.72,23.16,54.01
+PRD-146,Sugar Bombs Family Size - Anniversary Edition - Series 146,Sugar Bombs,Groceries,4.56,2.37,2.19,48.03
+PRD-147,Sugar Bombs Cereal - Classic - Series 147,Sugar Bombs,Groceries,4.91,2.54,2.37,48.27
+PRD-148,Mister Gutsy - Collector's Edition - Series 148,General Atomics,Home Automation,749.92,374.79,375.13,50.02
+PRD-149,Sugar Bombs Family Size - Anniversary Edition - Series 149,Sugar Bombs,Groceries,4.98,3.27,1.71,34.34
+PRD-150,Vault-Tec Utility Backpack - Retail Exclusive - Series 150,Vault-Tec,Apparel,119.49,69.46,50.03,41.87
+PRD-151,Nuka-Cola Orange - Premium - Series 151,Nuka-Cola,Beverages,9.03,4.13,4.9,54.26
+PRD-152,BlamCo Mac & Cheese - Value Pack - Series 152,BlamCo,Groceries,9.69,6.58,3.11,32.09
+PRD-153,Mister Gutsy - Retail Exclusive - Series 153,General Atomics,Home Automation,2780.27,2015.2,765.07,27.52
+PRD-154,Household Automation Unit - Classic - Series 154,General Atomics,Home Automation,2721.74,1626.29,1095.45,40.25
+PRD-155,RobCo Sensor Module - Premium - Series 155,RobCo Industries,Electronics,1109.61,606.2,503.41,45.37
+PRD-156,RobCo Terminal - Premium - Series 156,RobCo Industries,Electronics,1117.36,668.9,448.46,40.14
+PRD-157,Vault-Tec Survival Kit - Standard - Series 157,Vault-Tec,Apparel,104.58,56.93,47.65,45.56
+PRD-158,Abraxo Cleaner - Classic - Series 158,Abraxo,Household,26.61,18.56,8.05,30.25
+PRD-159,Nuka-Cola Grape - Anniversary Edition - Series 159,Nuka-Cola,Beverages,7.12,3.6,3.52,49.44
+PRD-160,Abraxo Industrial Cleaner - Anniversary Edition - Series 160,Abraxo,Household,23.99,12.26,11.73,48.9
+PRD-161,Mister Gutsy - Anniversary Edition - Series 161,General Atomics,Home Automation,3582.95,2133.34,1449.61,40.46
+PRD-162,Nuka-Cola Grape - Limited Edition - Series 162,Nuka-Cola,Beverages,10.09,5.48,4.61,45.69
+PRD-163,Nuka-Cola Grape - Classic - Series 163,Nuka-Cola,Beverages,3.92,2.93,0.99,25.26
+PRD-164,RobCo Sensor Module - Deluxe - Series 164,RobCo Industries,Electronics,1672.11,829.69,842.42,50.38
+PRD-165,Sugar Bombs Family Size - Classic - Series 165,Sugar Bombs,Groceries,10.67,7.94,2.73,25.59
+PRD-166,BlamCo Family Pack - Retail Exclusive - Series 166,BlamCo,Groceries,4.3,2.18,2.12,49.3
+PRD-167,Mister Handy - Value Pack - Series 167,General Atomics,Home Automation,3204.35,2263.31,941.04,29.37
+PRD-168,Abraxo Industrial Cleaner - Standard - Series 168,Abraxo,Household,12.06,6.51,5.55,46.02
+PRD-169,Grognak the Barbarian - Anniversary Edition - Series 169,Hubris Comics,Entertainment,47.69,26.4,21.29,44.64
+PRD-170,Vault-Tec Utility Backpack - Premium - Series 170,Vault-Tec,Apparel,177.17,131.86,45.31,25.57
+PRD-171,BlamCo Family Pack - Limited Edition - Series 171,BlamCo,Groceries,13.19,7.56,5.63,42.68
+PRD-172,Abraxo Industrial Cleaner - Classic - Series 172,Abraxo,Household,14.64,9.5,5.14,35.11
+PRD-173,Mister Gutsy - Standard - Series 173,General Atomics,Home Automation,941.85,696.6,245.25,26.04
+PRD-174,Abraxo Cleaner - Anniversary Edition - Series 174,Abraxo,Household,7.48,5.41,2.07,27.67
+PRD-175,Nuka-Cola Quantum - Classic - Series 175,Nuka-Cola,Beverages,11.7,8.67,3.03,25.9
+PRD-176,RobCo Sensor Module - Value Pack - Series 176,RobCo Industries,Electronics,945.61,622.03,323.58,34.22
+PRD-177,Protectron - Retail Exclusive - Series 177,RobCo Industries,Electronics,1043.01,568.44,474.57,45.5
+PRD-178,Silver Shroud Collectible - Standard - Series 178,Hubris Comics,Entertainment,53.21,27.69,25.52,47.96
+PRD-179,Sugar Bombs Cereal - Deluxe - Series 179,Sugar Bombs,Groceries,7.46,3.58,3.88,52.01
+PRD-180,RobCo Sensor Module - Collector's Edition - Series 180,RobCo Industries,Electronics,1780.89,1284.07,496.82,27.9
+PRD-181,Nuka-Cherry - Standard - Series 181,Nuka-Cola,Beverages,5.92,3.33,2.59,43.75
+PRD-182,Mister Handy - Retail Exclusive - Series 182,General Atomics,Home Automation,1942.17,1271.23,670.94,34.55
+PRD-183,Mister Handy - Collector's Edition - Series 183,General Atomics,Home Automation,776.38,552.2,224.18,28.88
+PRD-184,BlamCo Family Pack - Online Exclusive - Series 184,BlamCo,Groceries,4.28,2.52,1.76,41.12
+PRD-185,Sugar Bombs Family Size - Value Pack - Series 185,Sugar Bombs,Groceries,9.32,6.71,2.61,28.0
+PRD-186,Unstoppables Comic - Retail Exclusive - Series 186,Hubris Comics,Entertainment,21.05,12.26,8.79,41.76
+PRD-187,Abraxo Industrial Cleaner - Classic - Series 187,Abraxo,Household,22.25,13.06,9.19,41.3
+PRD-188,Sugar Bombs Cereal - Classic - Series 188,Sugar Bombs,Groceries,10.82,5.22,5.6,51.76
+PRD-189,Vault-Tec Survival Kit - Premium - Series 189,Vault-Tec,Apparel,125.58,93.91,31.67,25.22
+PRD-190,Sugar Bombs Cereal - Classic - Series 190,Sugar Bombs,Groceries,6.19,3.84,2.35,37.96
+PRD-191,Nuka-Cola Grape - Anniversary Edition - Series 191,Nuka-Cola,Beverages,11.32,8.16,3.16,27.92
+PRD-192,BlamCo Family Pack - Limited Edition - Series 192,BlamCo,Groceries,10.45,6.65,3.8,36.36
+PRD-193,Household Automation Unit - Deluxe - Series 193,General Atomics,Home Automation,3661.9,2357.91,1303.99,35.61
+PRD-194,Sugar Bombs Family Size - Standard - Series 194,Sugar Bombs,Groceries,8.63,5.78,2.85,33.02
+PRD-195,Protectron - Premium - Series 195,RobCo Industries,Electronics,1906.57,958.42,948.15,49.73
+PRD-196,Household Automation Unit - Premium - Series 196,General Atomics,Home Automation,2357.97,1707.28,650.69,27.6
+PRD-197,Mister Gutsy - Anniversary Edition - Series 197,General Atomics,Home Automation,3885.83,2092.68,1793.15,46.15
+PRD-198,Abraxo Cleaner - Anniversary Edition - Series 198,Abraxo,Household,29.06,14.3,14.76,50.79
+PRD-199,BlamCo Family Pack - Retail Exclusive - Series 199,BlamCo,Groceries,7.06,4.85,2.21,31.3
+PRD-200,Nuka-Cherry - Retail Exclusive - Series 200,Nuka-Cola,Beverages,4.23,2.37,1.86,43.97
+PRD-201,Sugar Bombs Family Size - Premium - Series 201,Sugar Bombs,Groceries,4.86,2.53,2.33,47.94
+PRD-202,Nuka-Cola Grape - Retail Exclusive - Series 202,Nuka-Cola,Beverages,6.27,3.97,2.3,36.68
+PRD-203,RobCo Sensor Module - Value Pack - Series 203,RobCo Industries,Electronics,1675.7,812.72,862.98,51.5
+PRD-204,Nuka-Cola - Value Pack - Series 204,Nuka-Cola,Beverages,12.95,6.28,6.67,51.51
+PRD-205,BlamCo Mac & Cheese - Classic - Series 205,BlamCo,Groceries,8.16,5.31,2.85,34.93
+PRD-206,Vault-Tec Survival Kit - Collector's Edition - Series 206,Vault-Tec,Apparel,179.94,116.33,63.61,35.35
+PRD-207,Silver Shroud Collectible - Classic - Series 207,Hubris Comics,Entertainment,75.72,40.43,35.29,46.61
+PRD-208,Abraxo Cleaner - Anniversary Edition - Series 208,Abraxo,Household,16.11,8.39,7.72,47.92
+PRD-209,Abraxo Cleaner - Premium - Series 209,Abraxo,Household,18.6,13.83,4.77,25.65
+PRD-210,Abraxo Cleaner - Classic - Series 210,Abraxo,Household,11.89,8.8,3.09,25.99
+PRD-211,Grognak the Barbarian - Limited Edition - Series 211,Hubris Comics,Entertainment,54.91,34.55,20.36,37.08
+PRD-212,Nuka-Cola - Premium - Series 212,Nuka-Cola,Beverages,5.43,2.65,2.78,51.2
+PRD-213,BlamCo Mac & Cheese - Retail Exclusive - Series 213,BlamCo,Groceries,5.08,2.62,2.46,48.43
+PRD-214,BlamCo Family Pack - Collector's Edition - Series 214,BlamCo,Groceries,12.35,7.77,4.58,37.09
+PRD-215,Sugar Bombs Cereal - Collector's Edition - Series 215,Sugar Bombs,Groceries,8.31,5.73,2.58,31.05
+PRD-216,Pip-Boy 3000 - Collector's Edition - Series 216,RobCo Industries,Electronics,184.91,127.03,57.88,31.3
+PRD-217,BlamCo Family Pack - Standard - Series 217,BlamCo,Groceries,4.67,2.17,2.5,53.53
+PRD-218,Vault-Tec Survival Kit - Deluxe - Series 218,Vault-Tec,Apparel,155.48,92.18,63.3,40.71
+PRD-219,Abraxo Cleaner - Anniversary Edition - Series 219,Abraxo,Household,17.59,12.9,4.69,26.66
+PRD-220,Nuka-Cola Grape - Value Pack - Series 220,Nuka-Cola,Beverages,7.57,5.6,1.97,26.02
+PRD-221,Nuka-Cola Orange - Classic - Series 221,Nuka-Cola,Beverages,7.25,3.5,3.75,51.72
+PRD-222,Grognak the Barbarian - Deluxe - Series 222,Hubris Comics,Entertainment,32.54,16.09,16.45,50.55
+PRD-223,Mister Gutsy - Online Exclusive - Series 223,General Atomics,Home Automation,2715.76,1668.85,1046.91,38.55
+PRD-224,Abraxo Industrial Cleaner - Online Exclusive - Series 224,Abraxo,Household,18.25,10.7,7.55,41.37
+PRD-225,Vault 111 Jumpsuit - Deluxe - Series 225,Vault-Tec,Apparel,174.23,112.43,61.8,35.47
+PRD-226,BlamCo Family Pack - Anniversary Edition - Series 226,BlamCo,Groceries,13.59,7.8,5.79,42.6
+PRD-227,Unstoppables Comic - Classic - Series 227,Hubris Comics,Entertainment,61.06,33.2,27.86,45.63
+PRD-228,Abraxo Industrial Cleaner - Premium - Series 228,Abraxo,Household,28.83,18.91,9.92,34.41
+PRD-229,Grognak the Barbarian - Deluxe - Series 229,Hubris Comics,Entertainment,68.21,32.6,35.61,52.21
+PRD-230,Protectron - Collector's Edition - Series 230,RobCo Industries,Electronics,1457.46,912.28,545.18,37.41
+PRD-231,Abraxo Cleaner - Classic - Series 231,Abraxo,Household,13.83,8.98,4.85,35.07
+PRD-232,Vault-Tec Survival Kit - Standard - Series 232,Vault-Tec,Apparel,194.46,122.53,71.93,36.99
+PRD-233,Abraxo Cleaner - Online Exclusive - Series 233,Abraxo,Household,17.68,8.78,8.9,50.34
+PRD-234,Grognak the Barbarian - Deluxe - Series 234,Hubris Comics,Entertainment,34.5,21.28,13.22,38.32
+PRD-235,Protectron - Online Exclusive - Series 235,RobCo Industries,Electronics,681.46,394.38,287.08,42.13
+PRD-236,Nuka-Cola Grape - Value Pack - Series 236,Nuka-Cola,Beverages,3.28,1.74,1.54,46.95
+PRD-237,Sugar Bombs Family Size - Premium - Series 237,Sugar Bombs,Groceries,4.04,2.87,1.17,28.96
+PRD-238,Vault 111 Jumpsuit - Collector's Edition - Series 238,Vault-Tec,Apparel,154.66,114.69,39.97,25.84
+PRD-239,RobCo Terminal - Classic - Series 239,RobCo Industries,Electronics,1136.6,627.71,508.89,44.77
+PRD-240,Abraxo Industrial Cleaner - Premium - Series 240,Abraxo,Household,24.41,15.14,9.27,37.98
+PRD-241,Pip-Boy 3000 - Collector's Edition - Series 241,RobCo Industries,Electronics,519.9,330.32,189.58,36.46
+PRD-242,Protectron - Anniversary Edition - Series 242,RobCo Industries,Electronics,1705.55,1015.99,689.56,40.43
+PRD-243,Unstoppables Comic - Value Pack - Series 243,Hubris Comics,Entertainment,25.08,15.14,9.94,39.63
+PRD-244,Abraxo Industrial Cleaner - Deluxe - Series 244,Abraxo,Household,12.07,7.89,4.18,34.63
+PRD-245,Silver Shroud Collectible - Value Pack - Series 245,Hubris Comics,Entertainment,13.17,7.49,5.68,43.13
+PRD-246,Nuka-Cola - Limited Edition - Series 246,Nuka-Cola,Beverages,6.0,3.08,2.92,48.67
+PRD-247,Mister Gutsy - Value Pack - Series 247,General Atomics,Home Automation,1648.42,745.61,902.81,54.77
+PRD-248,Vault 111 Jumpsuit - Collector's Edition - Series 248,Vault-Tec,Apparel,91.53,60.51,31.02,33.89
+PRD-249,Abraxo Cleaner - Classic - Series 249,Abraxo,Household,26.53,12.28,14.25,53.71
+PRD-250,Nuka-Cola Orange - Deluxe - Series 250,Nuka-Cola,Beverages,11.61,7.23,4.38,37.73
